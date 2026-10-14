@@ -39,3 +39,4 @@ It's not just a pile of charts. I tried to design it the way a restaurant owner 
 
 ## What I learned
 Building this taught me more about **storytelling with data** than about charts. Deciding what *not* to put on the page was harder than adding visuals. I also got a lot more comfortable with DAX measures, slicer interactions and custom layouts.
+https://github.com/vedantsharmaa-VS/PIZZA-DASHBOARD/blob/main/Screenshot%202026-10-14%20154413.png
